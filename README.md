@@ -22,3 +22,7 @@ python 4 mins          ░░░░░░░░░░░░░░░░░░░
 linux  2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 Other  1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
+
+📈 **my github stats**
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rise1024&show_icons=true&theme=gotham" alt="Rise1024" />
