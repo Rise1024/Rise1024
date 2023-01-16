@@ -25,4 +25,4 @@ Other  1 min           ░░░░░░░░░░░░░░░░░░░
 
 📈 **my github stats**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rise1024&show_icons=true&theme=gotham" alt="Rise1024" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Rise1024&show_icons=true&theme=gotham" alt="Rise1024" />
