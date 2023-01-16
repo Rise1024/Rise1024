@@ -13,7 +13,6 @@
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Rise1024&show_icons=true&theme=gotham" alt="Rise1024" />
   
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
@@ -24,4 +23,6 @@ python 4 mins          ░░░░░░░░░░░░░░░░░░░
 linux  2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 Other  1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
+<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 
